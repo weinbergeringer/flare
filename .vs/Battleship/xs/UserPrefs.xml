@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9937AF66-A5AE-4978-B93F-F9D5884F9817}|Default">
+  <MonoDevelop.Ide.ItemProperties.Battleship PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Battleship/Player.cs">
+    <Files>
+      <File FileName="Battleship/Program.cs" Line="11" Column="1" />
+      <File FileName="Battleship/Position.cs" Line="28" Column="30" />
+      <File FileName="Battleship/Board.cs" Line="5" Column="4" />
+      <File FileName="Battleship/Player.cs" Line="52" Column="32" />
+      <File FileName="Battleship/Game.cs" Line="5" Column="33" />
+      <File FileName="Battleship/Ship.cs" Line="20" Column="38" />
+      <File FileName="Battleship/ShipTest.cs" Line="52" Column="39" />
+      <File FileName="Battleship/BoardTest.cs" Line="24" Column="13" />
+      <File FileName="Battleship/PlayerTest.cs" Line="21" Column="35" />
+      <File FileName="Battleship/PositionTest.cs" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/inger/Projects/Battleship/Battleship/ShipTest.cs" relfile="Battleship/ShipTest.cs" line="55" column="20" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

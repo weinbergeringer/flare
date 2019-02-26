@@ -329,4 +329,7 @@ ASALocalRun/
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
 .vs/
+<<<<<<< HEAD
 packages/
+=======
+>>>>>>> b99febf1231fec9760fadd46ae5afd4f4f3e54d0
